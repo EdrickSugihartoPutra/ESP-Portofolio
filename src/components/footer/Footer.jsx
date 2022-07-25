@@ -11,8 +11,10 @@ const Footer = () => {
     <>
       <div className="footer">
         <div className="footer-left">
-          <h3 className="f-left-title">My Social Media</h3>
-          <div className="f-social" data-aos="fade-right" data-aos-offset="100">
+          <h3 className="f-left-title" data-aos="zoom-in">
+            My Social Media
+          </h3>
+          <div className="f-social" data-aos="zoom-in" data-aos-offset="100">
             <a
               href="https://www.linkedin.com/in/edrick-sugiharto-putra/"
               className="f-social-wrapper"
