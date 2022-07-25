@@ -22,7 +22,7 @@ const About = () => {
           </div>
           <p className="about-desc">
             I'm a Front-end developer interested in HTML, CSS, JavaScript and
-            ReactJS. I'm an open and friendly person. Throughout my campus live,
+            ReactJS. I'm an open and friendly person. Throughout my campus life,
             I've tried various technologies to achieve the best result I can
             get, especially in Front-end engineering. Even though in the end the
             result isn't always great, I know that what matter is that I'ver

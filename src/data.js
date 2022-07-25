@@ -15,7 +15,7 @@ export const projects = [
     {
         id: 2,
         img: MCP,
-        caption: "Mobile-Cross-Platform",
+        caption: "CrossPlat-Programming",
         link: "https://waddup-eta.vercel.app/login"
     },
     {

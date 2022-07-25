@@ -1,6 +1,9 @@
 .footer {
   height: 40vh;
   display: flex;
+  position: absolute;
+  left: 0;
+  bottom: 0;
 }
 
 .footer-left {
