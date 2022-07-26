@@ -1,5 +1,6 @@
 .projectList {
   padding: 50px 100px;
+  margin-top: 40px;
   display: flex;
   margin-top: 20px;
   flex-direction: column;
@@ -30,11 +31,12 @@
 @media screen and (max-width: 480px) {
   .projectList {
     padding: 10px;
-    margin-top: 10px;
+    margin-top: 120px;
   }
 
   .projectList-title {
     font-size: 30px;
+    margin: 0;
   }
 
   .projectList-texts {

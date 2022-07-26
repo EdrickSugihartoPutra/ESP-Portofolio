@@ -97,6 +97,9 @@ button:active {
 }
 
 @media screen and (max-width: 480px) {
+  .c {
+    padding-bottom: 40px;
+  }
   .c-wrapper {
     flex-direction: column;
     padding: 0 50px;
@@ -130,5 +133,9 @@ button:active {
 
   button {
     margin-top: 10px;
+  }
+
+  .c-reply {
+    font-size: 12px;
   }
 }
