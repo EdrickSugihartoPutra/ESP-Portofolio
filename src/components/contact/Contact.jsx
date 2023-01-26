@@ -54,7 +54,7 @@ const Contact = () => {
               </div>
               <div className="c-info-item">
                 <img src={Address} alt="" className="c-icon" />
-                <p>Blok D3B No.69 Medang Lestari, Tangerang, Banten</p>
+                <p>Indonesia</p>
               </div>
             </div>
           </div>
